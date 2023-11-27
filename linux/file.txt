@@ -1,4 +1,8 @@
 #!/bin/bash
 
+<<<<<<< HEAD
 echo " hi this is yaswanth from my native "
+=======
+echo " hi this is yaswanth from tirupati "
+>>>>>>> e94eeb223a97046f6804784dd49bed600c5570a7
 
